@@ -1,5 +1,10 @@
 # MSPP
 
+## 1.0.3
+- Fixed the missed cleavages selection
+- Merged the missed cleaved peptide into the main peptide
+- Revised the interfaces in the result page
+
 ## 1.0.2
 - Fixed the missed cleaved peptide included without matching the charge state
 - Fixed the logic of checking the peptide ratio tolerance which should be difference between the respective mod and non mod items

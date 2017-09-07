@@ -1,5 +1,9 @@
 # MSPP
 
+## 1.0.4
+- Replaced the missed cleaved peptide scan number with the actual sequence
+- Optimized the query speed
+
 ## 1.0.3
 - Fixed the missed cleavages selection
 - Merged the missed cleaved peptide into the main peptide

@@ -1,5 +1,9 @@
 # MSPP
 
+## 1.0.5
+- Fixed the bug of keeping inappropriate charges
+- Stored chimera paramters and protein lists in the session
+
 ## 1.0.4
 - Replaced the missed cleaved peptide scan number with the actual sequence
 - Optimized the query speed

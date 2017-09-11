@@ -3,6 +3,7 @@
 ## 1.0.5
 - Fixed the bug of keeping inappropriate charges
 - Stored chimera paramters and protein lists in the session
+- Fixed the summary export header
 
 ## 1.0.4
 - Replaced the missed cleaved peptide scan number with the actual sequence

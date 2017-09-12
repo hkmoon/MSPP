@@ -1,5 +1,10 @@
 # MSPP
 
+## 1.0.6
+- Fixed not finding miss cleavages with other charges
+- Removed old logic of peptide selection
+- Able to handle data with no Fraction column
+
 ## 1.0.5
 - Fixed the bug of keeping inappropriate charges
 - Stored chimera paramters and protein lists in the session

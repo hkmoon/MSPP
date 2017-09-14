@@ -1,5 +1,8 @@
 # MSPP
 
+## 1.0.7
+- Added Chimera parameter calculation logic instead of using chimera parameters
+
 ## 1.0.6
 - Fixed not finding miss cleavages with other charges
 - Removed old logic of peptide selection

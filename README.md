@@ -1,5 +1,9 @@
 # MSPP
 
+## 1.0.8
+- Added the feature save/load experiments containing manual curated ratio
+- Peptide ratio visualization is provided for the experiments
+
 ## 1.0.7
 - Added Chimera parameter calculation logic instead of using chimera parameters
 

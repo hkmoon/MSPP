@@ -1,5 +1,11 @@
 # MSPP
 
+## 1.0.9
+- Contained cleavage including checkbox for calculating the ratio
+- Changed the nomenclature of items
+- Added "Ctrl-F" function
+- Refined the chart and added SVG/PNG export functions
+
 ## 1.0.8
 - Added the feature save/load experiments containing manual curated ratio
 - Peptide ratio visualization is provided for the experiments

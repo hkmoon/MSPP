@@ -1,5 +1,9 @@
 # MSPP
 
+## 1.0.10
+- Added linux version
+- Validation tab is introduced for protein/peptide relations
+
 ## 1.0.9
 - Contained cleavage including checkbox for calculating the ratio
 - Changed the nomenclature of items
